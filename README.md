@@ -97,6 +97,10 @@ Machines:`3`
 
   <span>• Introduccion al Pentesting</span> -
   <a href="https://certificados.dragonjar.org/es/c/7b895ab59bf84656a4ffff20bbd9bf23">Ver certificado</a>  
+
+  <span>• Cyber Security 101 </span> -
+  <a href="">Proximamente</a>  
+  
 </p>
 
 ---
