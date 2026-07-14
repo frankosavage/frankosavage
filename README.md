@@ -92,9 +92,11 @@ Machines:`3`
   <span>• Python Web Scrapping</span> -
   <a href="https://www.udemy.com/certificate/UC-15030c2d-b77f-4869-97e3-47c07d765ca4/">Ver certificado</a>
 
-  <span>• Seguridad En Telefonos Empresariales</span> -
+  <span>• Seguridad Telefonos Empresariales</span> -
   <a href="https://www.udemy.com/certificate/UC-c9dae6fb-3d21-4228-9b93-ca11a5503c49/">Ver certificado</a>
-  
+
+  <span>• Introduccion al Pentesting</span> -
+  <a href="https://certificados.dragonjar.org/es/c/7b895ab59bf84656a4ffff20bbd9bf23">Ver certificado</a>  
 </p>
 
 ---
