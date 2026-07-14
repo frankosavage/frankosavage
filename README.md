@@ -38,7 +38,7 @@ Machines:`3`
 </tr>
 </table>
 
-<h3>◆ Herramientas & tecnologias que se usar:</h3>
+<h3>◆ Herramientas & Tecnologias:</h3>
 <p>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -57,7 +57,7 @@ Machines:`3`
 <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h3>◆ Programacion web & scripting:</h3>
+<h3>◆ Programacion web & Scripting:</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
