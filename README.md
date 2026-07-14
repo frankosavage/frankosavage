@@ -1,7 +1,6 @@
 ```md
 ┌──(FrankoAgustinn@kali)-[/etc/passwd]
-└─$ Bienvenido a mi perfil de Github
-└─$ cat README.md
+└─$ echo "Bienvenido a mi perfil de Github"
 ```
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
@@ -53,15 +52,15 @@
 
 <h3>🗳️ Certificaciones</h3>
 <p>
-<img src="" alt="" />
-<img src="" alt="" />
-<img src="" alt="" />
-<img src="" alt="" />
-<img src="" alt="" />
+  <span>Pre Security</span> -
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUCJD6BFP2.pdf">Ver certificado</a>
+  <br>
+  
+  <span>Hacking Redes WiFi</span> -
+  <a href="https://www.udemy.com/certificate/UC-622e2bea-c2bd-44c3-9c1d-148e37614d30/">Ver certificado</a>
 </p>
 
 <h3>🛩️ Objetivos actuales:</h3>
-
 ```yaml
 Ciberseguridad:
 - Conseguir el EJPTV2
