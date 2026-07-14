@@ -11,7 +11,7 @@ No eliminar este comentario.
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
 
-<h2>> Ethical Hacking | Pentesting | Web Developer <</h2>
+<h2>> Hacker | Web Dev <</h2>
 <table>
 <tr>
 <td align="center" width="50%">
