@@ -20,7 +20,7 @@ No eliminar este comentario.
 ⭐ **Skills:** Networking | Web Hacking
 
 
-<h3>◆ Herramientas & tecnologias:</h3>
+<h3>◆ Herramientas & tecnologias que se usar:</h3>
 <p>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -51,15 +51,35 @@ No eliminar este comentario.
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+---
+
 <h3>◆ Certificaciones:</h3>
 <p>
   <span>• Pre Security</span> -
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUCJD6BFP2.pdf">Ver certificado</a>
   <br>
   
+  <span>• Universidad Hacking</span> -
+  <a href="https://www.udemy.com/certificate/UC-8c5c996c-628d-436d-bede-6a2dc8346999/">Ver certificado</a>
+
   <span>• Hacking Redes WiFi</span> -
   <a href="https://www.udemy.com/certificate/UC-622e2bea-c2bd-44c3-9c1d-148e37614d30/">Ver certificado</a>
+
+  <span>• Hacking con Malware</span> -
+  <a href="https://www.udemy.com/certificate/UC-50589a8e-6247-4cdf-89e4-33fa23869d5e/">Ver certificado</a>
+
+  <span>• Personalizacion de Linux</span> -
+  <a href="https://hack4u.io/certificate/5909-7746-1235-6993">Ver certificado</a>
+
+  <span>• Python Web Scrapping</span> -
+  <a href="https://www.udemy.com/certificate/UC-15030c2d-b77f-4869-97e3-47c07d765ca4/">Ver certificado</a>
+
+  <span>• Seguridad En Telefonos Empresariales</span> -
+  <a href="https://www.udemy.com/certificate/UC-c9dae6fb-3d21-4228-9b93-ca11a5503c49/">Ver certificado</a>
+  
 </p>
+
+---
 
 <h3>◆ Objetivos actuales:</h3>
 
