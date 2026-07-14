@@ -1,5 +1,5 @@
 <!--
-Creado por FrankoSavage.
+Creado por FrankoSavage. https://github.com/frankosavage
 Inspirado en varios perfiles de GitHub.
 No eliminar este comentario.
 -->
@@ -71,7 +71,7 @@ Machines:`3`
 
 ---
 
-<h3>◆ Certificaciones:</h3>
+<h3>◆ Mis Certificaciones:</h3>
 <p>
   <span>• Pre Security</span> -
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUCJD6BFP2.pdf">Ver certificado</a>
@@ -109,7 +109,7 @@ Desarrollo web:
 ```
 
 <!--
-Creado por FrankoSavage.
+Creado por FrankoSavage. https://github.com/frankosavage
 Inspirado en varios perfiles de GitHub.
 No eliminar este comentario.
 -->
