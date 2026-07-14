@@ -11,11 +11,11 @@ No eliminar este comentario.
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
 
-<h2>• Ethical Hacking | Pentesting | Web Developer •</h2>
+<h2>> Ethical Hacking | Pentesting | Web Developer <</h2>
 
 <a href="https://tryhackme.com/p/FrankoAgustinn"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5f00b0f031ec4d0001f1344e/0x0.png" alt="TryHackMe Career Quiz" alt="Try Hack Me" width="120"></a>
 
-🏆 **Rank:** Hacker <br>
+🏆 **Rank:** [0x8][HACKER] <br>
 🔥 **Rooms:** 56  
 ⭐ **Skills:** Networking | Web Hacking
 
