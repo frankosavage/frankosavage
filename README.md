@@ -12,13 +12,31 @@ No eliminar este comentario.
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
 
 <h2>> Ethical Hacking | Pentesting | Web Developer <</h2>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://tryhackme.com/p/FrankoAgustinn"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5f00b0f031ec4d0001f1344e/0x0.png" alt="TryHackMe Career Quiz" alt="Try Hack Me" width="120"></a>
+<a href="https://hackthebox.com/p/FrankoAgustinn">
+  <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" width="100" height="90">
+  
+</a>
 
-🏆 **Rank:** [0x8][HACKER] <br>
-🔥 **Rooms:** 56  
-⭐ **Skills:** Networking | Web Hacking
 
+Rank: `HACKER`  
+Rooms:`56`
+
+</td>
+
+<td align="center" width="50%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_5zbdvZ9ipp4ajOpUsEj1NayB0n5U3R35sOA4fhXSQ" width="100" height="90">
+
+
+Rank:`NOOB`  
+Machines:`3`
+
+</td>
+</tr>
+</table>
 
 <h3>◆ Herramientas & tecnologias que se usar:</h3>
 <p>
