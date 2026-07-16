@@ -31,8 +31,8 @@ Rooms:`56`
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_5zbdvZ9ipp4ajOpUsEj1NayB0n5U3R35sOA4fhXSQ" width="100" height="90">
 
 
-Rank:`NOOB`  
-Machines:`3`
+Rank:`BEGINNER`  
+Machines:`5`
 
 </td>
 </tr>
