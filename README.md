@@ -22,8 +22,8 @@ No eliminar este comentario.
 </a>
 
 
-Rank: `HACKER`  
-Rooms:`56`
+Rank: `MAGUE`  
+Rooms:`89`
 
 </td>
 
