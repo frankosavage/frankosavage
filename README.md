@@ -99,7 +99,7 @@ Machines:`5`
   <a href="https://certificados.dragonjar.org/es/c/7b895ab59bf84656a4ffff20bbd9bf23">Ver certificado</a>  
 
   <span>• Cyber Security 101 </span> -
-  <a href="">Proximamente</a>  
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1C2HYURH0I.pdf">Ver certificado</a>  
   
 </p>
 
