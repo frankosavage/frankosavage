@@ -17,13 +17,13 @@ No eliminar este comentario.
 <td align="center" width="50%">
 
 <a href="https://hackthebox.com/p/FrankoAgustinn">
-  <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" width="100" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="100" height="90">
   
 </a>
 
 
 Rank: `MAGUE`  
-Rooms:`89`
+Rooms:`102`
 
 </td>
 
