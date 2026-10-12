@@ -6,7 +6,7 @@ No eliminar este comentario.
 
 ```md
 ┌──(FrankoAgustinn@kali)-[/etc/passwd]
-└─$ echo "Bienvenido a mi perfil de Github"
+└─$ echo "Welcome to my Github profile"
 ```
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
