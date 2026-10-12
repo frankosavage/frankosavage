@@ -108,10 +108,7 @@ Machines:`5`
 <h3>◆ Objetivos actuales:</h3>
 
 ```yaml
-Ciberseguridad:
-- Conseguir el EJPTV2
-Desarrollo web:
-- Mejorar solucionesf1
+- Conseguir mi primer empleo en IT
 ```
 
 <!--
