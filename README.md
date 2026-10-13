@@ -6,7 +6,7 @@ No eliminar este comentario.
 
 ```md
 ┌──(FrankoAgustinn@kali)-[/etc/passwd]
-└─$ echo "Welcome to my Github profile"
+└─$ echo "WELCOME TO MY GITHUB PROFILE"
 ```
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
@@ -66,40 +66,42 @@ Machines:`5`
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
 
-<h3>◆ Mis Certificaciones:</h3>
+<h3>◆ My Certificates:</h3>
 <p>
   <span>• Pre Security</span> -
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUCJD6BFP2.pdf">Ver certificado</a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUCJD6BFP2.pdf">View</a> 
   <br>
   
-  <span>• Universidad Hacking</span> -
-  <a href="https://www.udemy.com/certificate/UC-8c5c996c-628d-436d-bede-6a2dc8346999/">Ver certificado</a>
+  <span>• Hacking University</span> -
+  <a href="https://www.udemy.com/certificate/UC-8c5c996c-628d-436d-bede-6a2dc8346999/">View</a> 
 
-  <span>• Hacking Redes WiFi</span> -
-  <a href="https://www.udemy.com/certificate/UC-622e2bea-c2bd-44c3-9c1d-148e37614d30/">Ver certificado</a>
+  <span>• WiFi Hacking</span> -
+  <a href="https://www.udemy.com/certificate/UC-622e2bea-c2bd-44c3-9c1d-148e37614d30/">View</a> 
 
-  <span>• Hacking con Malware</span> -
-  <a href="https://www.udemy.com/certificate/UC-50589a8e-6247-4cdf-89e4-33fa23869d5e/">Ver certificado</a>
+  <span>• Hacking with Malware</span> -
+  <a href="https://www.udemy.com/certificate/UC-50589a8e-6247-4cdf-89e4-33fa23869d5e/">View</a> 
 
-  <span>• Personalizacion de Linux</span> -
-  <a href="https://hack4u.io/certificate/5909-7746-1235-6993">Ver certificado</a>
+  <span>• Linux Customization</span> -
+  <a href="https://hack4u.io/certificate/5909-7746-1235-6993">View</a> 
 
   <span>• Python Web Scrapping</span> -
-  <a href="https://www.udemy.com/certificate/UC-15030c2d-b77f-4869-97e3-47c07d765ca4/">Ver certificado</a>
+  <a href="https://www.udemy.com/certificate/UC-15030c2d-b77f-4869-97e3-47c07d765ca4/">View</a> 
 
-  <span>• Telefonos Empresariales</span> -
-  <a href="https://www.udemy.com/certificate/UC-c9dae6fb-3d21-4228-9b93-ca11a5503c49/">Ver certificado</a>
+  <span>• Business Phones</span> -
+  <a href="https://www.udemy.com/certificate/UC-c9dae6fb-3d21-4228-9b93-ca11a5503c49/">View</a> 
 
   <span>• Introduccion al Pentesting</span> -
-  <a href="https://certificados.dragonjar.org/es/c/7b895ab59bf84656a4ffff20bbd9bf23">Ver certificado</a>  
+  <a href="https://certificados.dragonjar.org/es/c/7b895ab59bf84656a4ffff20bbd9bf23">View</a> 
 
+  <span>• Pre Security </span> -
+  <a href="https://tryhackme.com/certificate/THM-IUCJD6BFP2">View</a>  
+  
   <span>• Cyber Security 101 </span> -
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1C2HYURH0I.pdf">Ver certificado</a>  
+  <a href="https://tryhackme.com/certificate/THM-1C2HYURH0I">View</a> 
   
 </p>
 
@@ -108,7 +110,7 @@ Machines:`5`
 <h3>◆ Objetivos actuales:</h3>
 
 ```yaml
-- Conseguir mi primer empleo en IT
+- Get my first IT job
 ```
 
 <!--
