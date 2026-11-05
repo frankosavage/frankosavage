@@ -11,14 +11,12 @@ No eliminar este comentario.
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdvNjAwa25naXk4aGJ6NHc1eGV0eWVwZ2s1cXh1ZGxyMW5wdjVrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300"/>
 
-<h2>> Hacker | Web Dev <</h2>
 <table>
 <tr>
 <td align="center" width="50%">
 
 <a href="https://hackthebox.com/p/FrankoAgustinn">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" width="100" height="90">
-  
 </a>
 
 Rank: `WIZARD`  
@@ -48,17 +46,6 @@ Top: `3%`
 <img src="https://img.shields.io/badge/Ghidra-FFCC00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-<h3>◆ Web & Scripting:</h3>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ---
