@@ -65,31 +65,6 @@ Top: `3%`
 
 <h3>◆ My Certificates:</h3>
 <p>
-  <span>• Pre Security</span> -
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUCJD6BFP2.pdf">View</a> 
-  <br>
-  
-  <span>• Hacking University</span> -
-  <a href="https://www.udemy.com/certificate/UC-8c5c996c-628d-436d-bede-6a2dc8346999/">View</a> 
-
-  <span>• WiFi Hacking</span> -
-  <a href="https://www.udemy.com/certificate/UC-622e2bea-c2bd-44c3-9c1d-148e37614d30/">View</a> 
-
-  <span>• Hacking with Malware</span> -
-  <a href="https://www.udemy.com/certificate/UC-50589a8e-6247-4cdf-89e4-33fa23869d5e/">View</a> 
-
-  <span>• Linux Customization</span> -
-  <a href="https://hack4u.io/certificate/5909-7746-1235-6993">View</a> 
-
-  <span>• Python Web Scrapping</span> -
-  <a href="https://www.udemy.com/certificate/UC-15030c2d-b77f-4869-97e3-47c07d765ca4/">View</a> 
-
-  <span>• Business Phones</span> -
-  <a href="https://www.udemy.com/certificate/UC-c9dae6fb-3d21-4228-9b93-ca11a5503c49/">View</a> 
-
-  <span>• Introduccion al Pentesting</span> -
-  <a href="https://certificados.dragonjar.org/es/c/7b895ab59bf84656a4ffff20bbd9bf23">View</a> 
-
   <span>• Pre Security </span> -
   <a href="https://tryhackme.com/certificate/THM-IUCJD6BFP2">View</a>  
   
@@ -99,12 +74,6 @@ Top: `3%`
 </p>
 
 ---
-
-<h3>◆ Objetivos actuales:</h3>
-
-```yaml
-- Get my first IT job
-```
 
 <!--
 Creado por FrankoSavage. https://github.com/frankosavage
