@@ -21,18 +21,11 @@ No eliminar este comentario.
   
 </a>
 
-
-Rank: `MAGUE`  
-Rooms:`102`
-
+Rank: `WIZARD`  
+Rooms:`150`
+Highest league:`Ruby`
+Top: `3%`
 </td>
-
-<td align="center" width="50%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_5zbdvZ9ipp4ajOpUsEj1NayB0n5U3R35sOA4fhXSQ" width="100" height="90">
-
-
-Rank:`BEGINNER`  
-Machines:`5`
 
 </td>
 </tr>
